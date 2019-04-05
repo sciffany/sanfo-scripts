@@ -1,6 +1,6 @@
 # Scripts for Sanfo
 
-This repository contains Google Apps scripts written to automate daily and weekly procedures for Sanfo International Trading Inc to improve workflow and reduce operation costs.
+Google Apps scripts to automate daily and weekly procedures for Sanfo International Trading Inc to improve workflow and reduce operation costs.
 
 ## Daily Purchase Updates
 
